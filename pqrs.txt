@@ -1,1 +1,2 @@
-alias gaddmit='git add . && git commit -m'
+alias gaddmit='git add . && git commit -m' 
+ddd
